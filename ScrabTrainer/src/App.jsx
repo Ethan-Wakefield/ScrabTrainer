@@ -12,7 +12,7 @@ function App() {
         <Navbar mode={mode} setMode={setMode} />
         <div className="flex-1 flex items-center justify-center bg-gray-900">
             {!mode ? (
-            <div className="flex gap-8">
+            <div className="flex flex-col sm:flex-row gap-8">
                 <button onClick={() => setMode("find")} className="w-48 h-48 border-4 border-cyan-400 text-cyan-400 text-xl font-semibold hover:bg-cyan-400 hover:text-gray-900 transition-colors duration-300 rounded-lg">
                     Find the Bingo
                 </button>
