@@ -1,5 +1,5 @@
 # ScrabTrainer
-Scrabble bingo finder practice app.
+Scrabble bingo finder practice app. Built with React.
 
 ## Game Modes
 
