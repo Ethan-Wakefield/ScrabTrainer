@@ -1,6 +1,8 @@
 # ScrabTrainer
 Scrabble bingo finder practice app. Built with React.
 
+Try here! https://scrabtrainer.onrender.com/
+
 ## Game Modes
 
 ### Find the bingo
